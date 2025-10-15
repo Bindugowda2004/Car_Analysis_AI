@@ -337,6 +337,7 @@ This project is licensed under the MIT License.
 - [ ] Real-time camera analysis
 
 ## 📸 Screenshots
+<img width="1615" height="870" alt="image" src="https://github.com/user-attachments/assets/6b426612-51c5-41e2-bcfa-d51891bb1561" />
 
 ### Homepage
 Clean, modern interface with two analysis options
