@@ -348,6 +348,6 @@ View all previous analyses with quick summaries
 ### Detail View
 Comprehensive reports with visual highlights and recommendations
 
-### Author
+## Author
 Bindu gowda (bindusgowda35@gmail.com)
 ---
